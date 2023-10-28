@@ -1,0 +1,26 @@
+a{text-decoration: none; color: #424141;}
+a:hover{color: #2f8ff4;}
+h1{text-align: center;}
+
+.main-article table{ width:100%; border-collapse: collapse;}
+
+/* 리스트 영역 */
+.list th {border-top: 2px solid #6fabea; background-color: #c3defa; text-align: center; padding: 6px 0;}
+.list .no {width: 8%;}
+.list .title{width: 20%;}
+.list .content{width:40%;}
+
+.list tbody{text-align: center;}
+.list td{border-top: 2px solid #6fabea;}
+
+
+/* 버튼 */
+.write-btn{margin: 30px; width:95%; text-align: right; } 
+.write-btn a {background-color:#6fabea; color:#fff; border: 1px solid black; font-size: 18px;}
+
+
+/* 입력 영역 */
+/* .insert-main {border: 2px solid #6fabea;} */
+/* .insert-form {border: 2px solid #6fabea;} */
+/* .insert-table {border: 2px solid #6fabea;} */
+/* .insert-table th, td { border: 5px solid #6fabea;} */

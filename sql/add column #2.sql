@@ -1,0 +1,1 @@
+ALTER TABLE miniboard ADD COLUMN delete_at DATETIME FIRST;
